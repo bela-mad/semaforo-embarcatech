@@ -3,7 +3,7 @@
   
 <h2 align="center"> Sobre :pencil: </h2>
 
-<p align="justify"> &emsp;&emsp;&emsp;&emsp; Repositório com o objetivo de consolidar a compreensão dos conceitos relacionados ao uso de clock e temporizadores no microcontrolador RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab, como parte de uma tarefa desenvolvida na Unidade 4 do Capítulo 4 da EmbarcaTech, residência de Sistemas Embarcados. Essa tarefa foi desenvolvida pela residente Isabela Madureira.
+<p align="justify"> &emsp;&emsp;&emsp;&emsp; Repositório com o objetivo de consolidar a compreensão dos conceitos relacionados ao uso de clock e temporizadores no microcontrolador RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab, como parte de uma tarefa desenvolvida na Unidade 4 do Capítulo 5 da EmbarcaTech, residência de Sistemas Embarcados. Essa tarefa foi desenvolvida pela residente Isabela Madureira.
 
 <h3> Descrição da tarefa </h3>
 
